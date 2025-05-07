@@ -7,9 +7,5 @@
 - 🛠️ Tecnologias com as quais trabalho ou estudo:  
   `C#, JavaScript` | `Dotnet Framework` | `VSCODE`
 
-## 📈 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
-
 ## 📫 Como me encontrar
 - Email: [henrilbaceti@gmail.com]
