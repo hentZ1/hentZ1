@@ -20,7 +20,6 @@ Atualmente explorando o mundo da programação em C e o raciocínio por trás do
 ### Ferramentas e Tecnologias  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" style="margin-right:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="Linux" width="50" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" width="50" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="50" style="margin-right:10px;">
