@@ -1,6 +1,6 @@
 # Olá, eu sou o Henri  
 
-Estudante de Engenharia de Software  
+Estudante de Desenvolvimento de Sistemas 
 Apaixonado por matemática, lógica e pela arte de transformar ideias em código.  
 Atualmente explorando o mundo da programação em C e o raciocínio por trás dos algoritmos.
 
