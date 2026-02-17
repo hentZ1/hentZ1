@@ -4,13 +4,6 @@ Estudante de Engenharia de Software
 Apaixonado por matemática, lógica e pela arte de transformar ideias em código.  
 Atualmente explorando o mundo da programação em C e o raciocínio por trás dos algoritmos.
 
-### Projetos em C
-| Projeto | Descrição |
-|----------|------------|
-| [Calculadora de Argumento](https://github.com/hentZ1/Calculadora-de-argumento) | Calcula expressões via linha de comando utilizando argumentos passados ao programa. |
-| [Contador de Caracteres](https://github.com/hentZ1/Contador-de-caracteres) | Conta caracteres em strings e analisa o conteúdo de forma simples e eficiente. |
-| [Guess Game](https://github.com/hentZ1/Guess-game-em-C) | Um jogo de adivinhação em C baseado em lógica e probabilidade. |
-
 ### Tecnologias e Interesses
 - Linguagem C  
 - Estruturas de Dados e Algoritmos  
